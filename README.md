@@ -43,7 +43,8 @@ Instructions on how to install and set up RANSOM-666 on your computer.
 
 ```sh
 git clone https://github.com/Coder333-A/RANSOM-666.git
-cd RANSOM-666 ```
+cd RANSOM-666
+```
 
 ## 🚀 Usage
 
