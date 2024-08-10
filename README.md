@@ -2,7 +2,7 @@
 A Powerfull Stealer + Remote Access Trojan + Malware + Ransomware . Don't Run Them on your device.
 # In Progress
 
-![Logo]()
+Also check ```Jumbo RAT```
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Coder333-A/RANSOM-666)
