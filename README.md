@@ -20,14 +20,14 @@ Ransom 666 is a project that includes various tools such as a Remote Access Troj
 - [Project Title](#project-title)
 - [Description](#-description)
 - [Table of Contents](#-table-of-contents)
-- [Installation](#%EF%B8%8F-installation)
+- [Installation](https://coder333-a.github.io/RANSOM-666/#%EF%B8%8F-installation)
 - [Usage](#-usage)
 - [Features](#-features)
 - [Screenshots](#-screenshots)
 - [Changelog](#-changelog)
 - [Contributing](#-contributing)
 - [Support](#-support)
-- [Disclaimer][#-disclaimer]
+- [Disclaimer](#-disclaimer)
 
 ## 🛠️ Installation ##
 
