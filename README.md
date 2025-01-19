@@ -1,8 +1,6 @@
-# RANSOM-666
-A Powerfull Stealer + Remote Access Trojan + Malware + Ransomware . Don't Run Them on your device.
-# In Progress
+# Ransom 666 #
 
-Also check ```Jumbo RAT```
+![Logo](https://via.placeholder.com/150)
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Coder333-A/RANSOM-666)
@@ -13,12 +11,11 @@ Also check ```Jumbo RAT```
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/Coder333-A/RANSOM-666)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Coder333-A/RANSOM-666)
 
+## 🌟 Description ##
 
-## 🌟 Description
+Ransom 666 is a project that includes various tools such as a Remote Access Trojan, Ransomware, Reverse Shell, and Stealer. It is essential to use this software ethically and responsibly, as misuse can lead to legal consequences.
 
-A brief description of your project, what it does, and why it is useful.
-
-## 📚 Table of Contents
+## 📚 Table of Contents ##
 
 - [Project Title](#project-title)
 - [Description](#-description)
@@ -33,7 +30,7 @@ A brief description of your project, what it does, and why it is useful.
 - [Acknowledgements](#-acknowledgements)
 - [Contact](#-contact)
 
-## 🛠️ Installation
+## 🛠️ Installation ##
 
 Instructions on how to install and set up RANSOM-666 on your computer.
 
@@ -46,64 +43,66 @@ git clone https://github.com/Coder333-A/RANSOM-666.git
 cd RANSOM-666
 ```
 
-## 🚀 Usage
+## 🚀 Usage ##
 
--  Download ```SETUP.zip```
--  Unzip ```SETUP.zip```
--  Run ```SETUP.exe```
+- Install Python. If You Have Not Installed Python On Your PC.
+- UnZip ```MEGA.zip```
+- Run ```Builder.py```
+- Wait Till a message box saying 'Done' appears
+- Open ```RANSOM-666.py```
+- Choose any option - Remote Access Trojan, Ransomware, Reverse Shell or Stealer
 
-## ✨Features
+## 🌟 Features ##
 
-        ⚔️/start - start the program
-        ⚙️/help - help with commands
-        🔌/addstartup - to add autostart
-        🧑🏻‍💻/users - show users in pc
-        🔑/passwords - show saved passwords in pc
-        🍪/robloxcookie - show roblox cookies
-        🪪/info - to show information about pc ,also location , country, city , ip
-        🖥️/who - to show name of pc
-        💬👂🏻/textspech 'your text' - your text will sounded in pc
-        🎵/playsound 'file path' -(first run /upload to upload your music file in pc) your file will sound in pc for ex: /playsound C:\test.mp3
-        🔫/execute - execute shell commands (like terminel emulator in netcat)
-        🗡️/e 'your command' - also execute shell commands
-        🏹/exc 'your command' - use this if you will execute commands with long response 
-        📷/screenshot - to get screenshot
-        📹/webscreen - get screenshot from camera
-        🎙️/mic 'time in seconds' - record microphone of pc
-        ☢️/winblocker - my own winlocker
-        ☣️/winblocker2 - if winblocker doesnt work
-        📁/download 'your file' - to download files(for exm: /download C:\test.txt)
-        🗃️/upload - to upload file in target pc
-        📋/clipboard - show users clipboard
-        🎦/webcam - get webcam video
-        🎥/screenrecord - get screenrecord
-        🌐/chrome 'website url' - open website in chrome in target pc
-        🌐/edge 'website url' - open website in edge in target pc
-        🌐/firefox 'website url' - open website in firefox in target pc             
-        Ⓜ️/msg 'your message' - send message(messagebox) to target
-        💣/spam 'your message' - spam your message 10 times but if you will click al lot...
-        🛜/wifilist - show saved wifi
-        🔐/wifipass 'name of accespoint' - show password of saved wifi
-        🖱️/mousemesstart - start mouse messing
-        🐁/mousemesstop - stop mouse messing
-        🪤/mousekill - disable mouse
-        🐭/mousestop - enable mouse
-        🔊/fullvolume - make full volume
-        🔉/volumeplus - make pc volume + 10
-        🔇/volumeminus - make pc volume - 10
-        🪦/disabletaskmgr - disable task manager
-        📠/enabletaskmgr - enable task manager
-        🧱/wallpaper - change desktop's wallpaper
-        ⌨️/keypress 'your key' - in pc's keyboard will pressed this keys 
-        ⌨️/keypresstwo 'your key' 'your key' - in pc's keyboard will pressed this keys 
-        ⌨️/keypressthree 'your key' 'your key' 'your key' - in pc's keyboard will pressed this keys 
-        📃/tasklist - to show tasks
-        🧨/taskkill 'your task' - kill entered task
-        🕶️/hide - to hide your app
-        👓/unhide - unhide your app
-        💤/sleep - send windows to sleep
-        🕚/shutdown - shutdown pc
-        🔄️/restart - restart pc
-## :memo: License
+- Includes Remote Access Trojan, Ransomware, Reverse Shell and Stealer
+- Remote Access Trojan
+  - Uses Telegram as C2 server
+  - Have a secure connection
+- Ransomware
+  - Uses Telegram for sending and getting AES 256 bit encrypted encryption key
+  - It doesn't use hardcoded key for being anonymous
+- Reverse Shell
+  - Uses AES 256 bit encryption key for encrypted communication
+  - Allow Multiple Connections, Broadcast commands to all clients, Stores client information in the database and Token management system to identify clients
+- Stealer
+  - Uses AES 256 bit encryption key for encrypted communication
+  - Fully Undetectable by any Antivirus
 
-This project is licensed under the MIT License. For more details, please refer to the [LICENSE](LICENSE) file.
+## 📸 Screenshots ##
+
+![Screenshot](https://github.com/Coder333-A/RANSOM-666/blob/main/Screenshot.png)
+
+## 📝 Changelog ##
+
+- 0.0.1
+- Initial Release
+- 0.0.2
+- Added Stealer
+- 0.0.3
+- Added Reverse Shell
+- 0.0.4
+- Added Ransomware
+- 0.0.5
+- Added Remote Access Trojan
+- 0.0.6
+- Added AES 256 bit encryption key for encrypted communication
+- 0.0.7
+- Added Telegram as C2 server
+- 0.0.8
+- Added Encrypted Compiler for secure and anonymous executable
+- 0.0.9
+- Added Builder.py
+- 0.1.0
+- Added MEGA.zip
+- 0.1.2
+- Added Python installer
+- 0.1.3
+- Added executable file compilation
+- 0.1.4
+- None
+- 0.1.5
+- Release
+
+## ⚠️ Disclaimer ##
+
+This software is intended for educational purposes only. Misuse of this software can lead to legal consequences. Always ensure you have permission before using any tools that may affect others' systems.
